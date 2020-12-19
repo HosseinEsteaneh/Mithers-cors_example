@@ -1,1 +1,0 @@
-# Mithers-cors_example
